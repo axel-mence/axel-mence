@@ -13,7 +13,7 @@ Je conçois et je livre des features de A à Z : cadrage, UX/UI, design system, 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
 | **Relance des pièces manquantes** | Feature fictive d'un SaaS compta : suivi et relance des pièces clients | Vite · Tailwind · Claude Code · GitHub Actions |
-| **Nimbus** | Outil B2B de prévision de staffing pour les ESN, pitché devant la CCI | Lovable · recherche utilisateur · modèle probabiliste |
+| **Nimbus** | Outil B2B de prévision de staffing pour les ESN, pitché devant la CCI | Lovable · Figma & Figjam · modèle probabiliste |
 | **Le Colibri Paris** | Refonte complète du site d'un traiteur géré par un ESAT | Figma · WordPress / Elementor · GA4 |
 
 ### Ma façon de bosser
