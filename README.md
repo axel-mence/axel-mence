@@ -1,28 +1,30 @@
 ### Salut, moi c'est Axel 👋
 
 **AI Product Builder · Product Designer** basé à Paris.
-Je conçois et je livre des features de A à Z : cadrage, UX/UI, design system, puis code avec Claude Code, Git, PR et CI.
+Profil hybride : je vais du cadrage à la mise en ligne, en passant par l'UX/UI, la direction artistique, le code et la mesure.
 
+- 🎨 **Graphisme & DA** : identités visuelles, design systems, supports print et digitaux, motion
+- 🧩 **Produit & UX/UI** : cadrage, parcours, maquettes Figma, itérations sur le rendu réel
+- 🛠️ **Build** : Claude Code, Git, PR et CI, Framer, intégration no-code
+- 📊 **Analytics** : GA4, Looker Studio, bases SQL, instrumentation et lecture des données d'usage
 - 🎓 Mastère UX · HETIC (2026)
-- 🛠️ Ce que je construis : des MVP SaaS B2B, des sites Framer, des design systems
-- 🌱 En ce moment : je progresse en React, Git et workflows dev (freeCodeCamp)
 - 💬 Ouvert aux postes **AI Product Builder** et **Product Designer** en CDI à Paris
 
 ### Projets
 
 | Projet | Ce que c'est | Stack |
 |---|---|---|
-| **Relance des pièces manquantes** | Feature fictive d'un SaaS compta : suivi et relance des pièces clients | Vite · Tailwind · Claude Code · GitHub Actions |
-| **Nimbus** | Outil B2B de prévision de staffing pour les ESN, pitché devant la CCI | Lovable · Figma & Figjam · modèle probabiliste |
-| **Le Colibri Paris** | Refonte complète du site d'un traiteur géré par un ESAT | Figma · WordPress / Elementor · GA4 |
+| **Nimbus** | Outil B2B de prévision de staffing pour les ESN : recherche utilisateur, modèle probabiliste, MVP, pitch devant la CCI | Lovable · Figma · Notion · Make |
+| **Le Colibri Paris** | Refonte complète du site d'un traiteur géré par un ESAT : audit UX/SEO, design system, intégration, suivi GA4 | Figma · WordPress / Elementor · GA4 |
+| **Nom à venir** | SaaS de relance des pièces manquantes pour cabinets comptables, branché sur de vrais connecteurs | Vite · Tailwind · Claude Code · GitHub Actions |
 
 ### Ma façon de bosser
 
-`cadrage` → `références` → `spec` → `wireframes + DS` → `code par étapes` → `itération UX/UI` → `tests + CI` → `PR` → `preview`
+`cadrage` → `références` → `spec` → `wireframes + DS` → `code par étapes` → `itération UX/UI` → `tests + CI` → `PR` → `preview` → `mesure`
 
 ### Outils
 
-Figma · Framer · Claude Code · Lovable · Notion · Make · HTML / CSS / JS · Tailwind · Git
+Figma · Framer · Claude Code · Lovable · Notion · Make · GA4 · Looker Studio · HTML / CSS / JS · Tailwind · Git
 
 ### Me trouver
 
