@@ -16,7 +16,7 @@ Profil hybride : je vais du cadrage à la mise en ligne, en passant par l'UX/UI,
 |---|---|---|
 | **Nimbus** | Outil B2B de prévision de staffing pour les ESN : recherche utilisateur, modèle probabiliste, MVP, pitch devant la CCI | Lovable · Figma · Notion · Make |
 | **Le Colibri Paris** | Refonte complète du site d'un traiteur géré par un ESAT : audit UX/SEO, design system, intégration, suivi GA4 | Figma · WordPress / Elementor · GA4 |
-| **Nom à venir** | SaaS de relance des pièces manquantes pour cabinets comptables, branché sur de vrais connecteurs | Vite · Tailwind · Claude Code · GitHub Actions |
+| **Nudge** | SaaS de relance des pièces manquantes pour cabinets comptables, branché sur de vrais connecteurs | Vite · Tailwind · Claude Code · GitHub Actions |
 
 ### Ma façon de bosser
 
